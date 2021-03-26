@@ -1,0 +1,140 @@
+<div class="main_nav" [className]="condition ? 'open-nav' : ''">
+  <nav>
+    <div class="nav-wrapper">
+  
+      <div class="mobile-toggle" (click)="onClickMe()"> <span></span> <span></span> <span></span> </div>
+      <ul>
+        <li><a class="smoothscroll" (click)="closeNav()" href="#header">Home</a></li>
+      <li><a class="smoothscroll" (click)="closeNav()" href="#about">About</a></li>
+      <li><a class="smoothscroll" (click)="closeNav()" href="#portfolio">Work</a></li>
+      <li><a class="smoothscroll" (click)="closeNav()" href="#skills">Skills</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+</div>
+
+<!-- Header Section–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<header id="header">
+  <div class="title">
+    <h1 class="heading"> I'm Kevin iOS Developer At Codiscos.</h1>
+    <h2 class="heading">Medellín, Colombia</h2>
+    <a class="smoothscroll" href="#about">
+      <div class="mouse">
+        <div class="wheel"></div>
+      </div>
+    </a> 
+  </div>
+
+  <a class="smoothscroll" href="#about">
+    <div class="scroll-down"></div>
+  </a> 
+
+</header>
+
+<!-- About Section–––––––––––––––––––––––––––––––––––––––––––––––––– -->  
+  
+<section id="about">
+  <div class="container">
+    <div class="row">
+
+      <h1>About</h1>
+      <div class="block"></div>
+      <p>I’m focused for making iOS apps (+4 years) with a strong interest in project that require both conceptual and analytical thinking. Always eager to learn more trick, knowledge... to happiness.</p>
+
+      <p>Available for freelance: off</p>
+    </div>
+  </div>
+</section>
+
+<!-- Portfolio Section–––––––––––––––––––––––––––––––––––––––––––––––––– -->  
+
+<section id="portfolio">
+  <div class="container">
+    <h1>Work</h1>
+
+    <div class="block"></div>
+
+    <div class="row">
+
+      <div class="col s12 m6 l4" *ngFor="let project of projects">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            
+            <div class="carousel" data-indicators="true">
+              <div class="carousel-item" href="#one!" *ngFor="let image of project?.images">
+                <img class="activator" src="{{image.url}}" alt="{{image.url}}">
+              </div>
+            </div>
+
+          </div>
+
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4 flow-text">{{project.title}}<i class="material-icons right">more_vert</i></span>
+          </div>
+
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4 flow-text">{{project.title}}<i class="material-icons right">close</i></span>
+            <p>{{project.description}}</p>
+
+            <div class="chip" *ngFor="let platform of project.platforms">
+              <img src="{{platform.icon}}" alt="logo"> <a href="{{platform.url}}">{{platform.name}}</a> 
+            </div>
+            
+            <div>
+              <span *ngFor="let hashtag of project.hashtags">
+                  <span class="badge">{{hashtag.hashtag}}</span>
+              </span>
+              
+            </div>
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+
+
+<!-- Skills Section–––––––––––––––––––––––––––––––––––––––––––––––––– -->  
+
+<section id="skills">
+  <div class="container">
+    <h1>Skills</h1>
+    <div class="block"></div>
+    <div class="row">
+      <div class="one-third col s12 m6 l4">
+        <h3>Design</h3>
+        <p>I don't know why I put design in my skill, I don't know nothing about it, but I like the simplicity of things. I did an effort to design this web.</p>
+      </div>
+      <div class="one-third col s12 m6 l4">
+        <h3>Develop</h3>
+        <p>I love programming, I'm focus in Swift now learning SwiftUI, but I like to play with JS too. I've used Cocos2d-x to made tiniest games, I worked in pair programing to made some hibrid apps.
+      </div>
+      <div class="one-third col s12 m6 l4">
+        <h3>Personal</h3>
+        <p>I like to play chess, do hiking with co-workers, play the Kalimab, read a good book, paint with watercolor, I like for planning and develop games using Unity3D and apps with friends for instance ideas to supply the people needs or ours.</p>
+      </div>
+    </div>
+  </div>
+</section> 
+
+<!-- Footer Section–––––––––––––––––––––––––––––––––––––––––––––––––– --> 
+
+<footer>
+  <div class="container">
+    <div class="valign-wrapper">
+
+      <p>Created with <i class="heart-icon material-icons">favorite_border</i> by me.</p>
+
+      <!-- <div class="right-align">
+          <p>rojke34@gmail.com</p>
+          <p>+57 301 6016976</p>
+      </div> -->
+
+    </div>
+  </div>
+</footer>

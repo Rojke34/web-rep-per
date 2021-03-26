@@ -1,0 +1,286 @@
+[ 
+  {
+    "title":"Habithelper",
+    "description": "My first SwiftUI app, amazing. I made it to help myself with some activities I like to do in my daily such as play the Kalimba, workout, drink water things like that.",
+    "images": [
+      {"url": "../assets/project16/ima1.png"},
+      {"url": "../assets/project16/ima2.png"},
+      {"url": "../assets/project16/ima3.png"}
+    ],
+    "platforms": [
+    ],
+    "hashtags": [
+      { "hashtag": "Lerning", "color": "red"},
+      { "hashtag": "SwiftUI", "color": "blue" },
+      { "hashtag": "Freetime", "color": "blue" }
+    ]
+  }, 
+  {
+    "title":"The Boring App",
+    "description": "Well, I was bored and I decided to learn Flutter. Just shake your cell phone a get random activity to kill your boring mood. XD",
+    "images": [
+      {"url": "../assets/project15/screen1.png"},
+      {"url": "../assets/project15/screen2.png"},
+      {"url": "../assets/project15/screen3.png"}
+    ],
+    "platforms": [
+      { "name": "Play Store",       "icon": "../assets/android_logo.png", "url": "https://play.google.com/store/apps/details?id=rojke.theboringapp" },
+      { "name": "Lottiefiles",       "icon": "../assets/html_logo.png", "url": "https://lottiefiles.com/" }
+    ],
+    "hashtags": [
+      { "hashtag": "Lerning", "color": "red"},
+      { "hashtag": "Flutter", "color": "blue" },
+      { "hashtag": "Freetime", "color": "blue" }
+    ]
+  }, 
+  {
+    "title":"Spirit",
+    "description": "Well, I was working to take advantage about this quarantine for making an multiplatform game using Unity3D and some assets from OpenGameArt.",
+    "images": [
+      {"url": "../assets/project13/spirit1.png"},
+      {"url": "../assets/project13/spirit2.png"},
+      {"url": "../assets/project13/spirit3.png"},
+      {"url": "../assets/project13/spirit4.png"}
+    ],
+    "platforms": [
+      { "name": "Art by lancelot_gao",       "icon": "../assets/html_logo.png", "url": "https://opengameart.org/users/lancelotgao" },
+      { "name": "Royalty Free Music",       "icon": "../assets/html_logo.png", "url": "https://www.bensound.com/" },
+      { "name": "Play it here",       "icon": "../assets/html_logo.png", "url": "https://fir-ar-4c115.web.app/spirit/" }
+    ],
+    "hashtags": [
+      { "hashtag": "Unity3D", "color": "red"},
+      { "hashtag": "Freetime", "color": "blue" },
+      { "hashtag": "Quarantine", "color": "blue" }
+    ]
+  },
+  {
+    "title":"I am Rex",
+    "description": "Well, I was working to take advantage about this quarantine for making an multiplatform game using Unity3D and materials from As Crônicas de Wesley. Nonprofit",
+    "images": [
+      {"url": "../assets/project14/one.png"},
+      {"url": "../assets/project14/two.png"},
+      {"url": "../assets/project14/three.png"},
+      {"url": "../assets/project14/four.png"}
+    ],
+    "platforms": [
+      { "name": "Ascronicasdewesley",       "icon": "../assets/html_logo.png", "url": "https://www.facebook.com/Ascronicasdewesley" },
+      { "name": "Royalty Free Music",       "icon": "../assets/html_logo.png", "url": "https://www.bensound.com/" }
+    ],
+    "hashtags": [
+      { "hashtag": "Unity3D", "color": "red"},
+      { "hashtag": "Freetime", "color": "blue" },
+      { "hashtag": "Quarantine", "color": "blue" }
+    ]
+  },  
+  {
+    "title":"Mind of Frog",
+    "description": "Well, I was working to take advantage about this quarantine for making an iOS game using SpriteKit and some assets from Freepik. Just a frog eating insects 🐸 🐞",
+    "images": [
+      {"url": "../assets/project12/mindoffrog_1.png"},
+      {"url": "../assets/project12/mindoffrog_2.png"},
+      {"url": "../assets/project12/mindoffrog_3.png"}
+    ],
+    "platforms": [
+      { "name": "Designed by Freepik",       "icon": "../assets/html_logo.png", "url": "http://www.freepik.com" },
+      { "name": "Designed by pikisuperstar", "icon": "../assets/html_logo.png", "url": "http://www.freepik.com" },
+      { "name": "Designed by upklyak",       "icon": "../assets/html_logo.png", "url": "http://www.freepik.com" }
+    ],
+    "hashtags": [
+      { "hashtag": "Spritekit", "color": "red"},
+      { "hashtag": "Freetime", "color": "blue" },
+      { "hashtag": "Quarantine", "color": "blue" }
+    ]
+  },  
+  {
+    "title":"Banconautas",
+    "description": "Bancolombia for kids! awesome project using Cocos2d-x js version and ElectronJS only for desktop. (Using iPhone mockup)",
+    "images": [
+      {"url": "../assets/project11/banconautas_0.png"},
+      {"url": "../assets/project11/banconautas_1.png"},
+      {"url": "../assets/project11/banconautas_2.png"}
+    ],
+    "platforms": [
+
+    ],
+    "hashtags": [
+      { "hashtag": "Work", "color": "red"},
+      { "hashtag": "Office", "color": "blue" },
+      { "hashtag": "Panter", "color": "blue" }
+    ]
+  },
+  {
+    "title":"Biblioteca Viva",
+    "description": "A huge amount of minigames, it was cool worked on that because each one was different. About 37 minigames using Cocos2d-x JS version. But it isn't uptated yet (01/2020).",
+    "images": [
+      {"url": "../assets/project10/bibliotecaviva_0.png"},
+      {"url": "../assets/project10/bibliotecaviva_1.png"},
+      {"url": "../assets/project10/bibliotecaviva_2.png"},
+      {"url": "../assets/project10/bibliotecaviva_3.png"},
+      {"url": "../assets/project10/bibliotecaviva_4.png"}
+    ],
+    "platforms": [
+      { "name": "Web", "icon": "assets/html_logo.png", "url": "http://bibliotecaviva.co/" }
+    ],
+    "hashtags": [
+      { "hashtag": "Work", "color": "red"},
+      { "hashtag": "Office", "color": "blue" },
+      { "hashtag": "Panter", "color": "blue" }
+    ]
+  },
+  {
+    "title":"Appimotion",
+    "description": "Appimotion is a digital platform to allow companies to contribute to the enviromente, earn points and exchange them for prizes. Is it not cool?",
+    "images": [
+      {"url": "../assets/project09/appimotion_0.png"},
+      {"url": "../assets/project09/appimotion_1.png"},
+      {"url": "../assets/project09/appimotion_2.png"},
+      {"url": "../assets/project09/appimotion_3.png"}
+    ],
+    "platforms": [
+      { "name": "iOS", "icon": "../assets/apple_logo.png", "url": "https://itunes.apple.com/co/app/hidrix/id1321450235?l=en&mt=8" }
+    ],
+    "hashtags": [
+      { "hashtag": "Work", "color": "red"},
+      { "hashtag": "Office", "color": "blue" },
+      { "hashtag": "Panter", "color": "blue" },
+      { "hashtag": "iOS Swift", "color": "blue" }
+    ]
+  },
+  {
+    "title":"ForAnimals",
+    "description": "Just a little hobby, to teach children about the important is recycle and don't destroy animals' environment, the assets I got from Freepik. I'm not good at Illustration... 😅",
+    "images": [
+      {"url": "../assets/project01/foranimal_0.png"},
+      {"url": "../assets/project01/foranimal_1.png"},
+      {"url": "../assets/project01/foranimal_2.png"},
+      {"url": "../assets/project01/foranimal_3.png"},
+      {"url": "../assets/project01/foranimal_5.png"}
+    ],
+    "platforms": [
+      
+    ],
+    "hashtags": [
+      { "hashtag": "Ideas", "color": "red"},
+      { "hashtag": "Hobby", "color": "blue" },
+      { "hashtag": "Passion", "color": "green"}
+    ]
+  },
+  {
+    "title":"ConecTaT",
+    "description": "That was a big app e-commerce, the interesting thing about is everything was made by code, I did not used the storyboard maybe isn't important but I liked it. It's not at the Apple Store why? 🤔",
+    "images": [
+      {"url": "../assets/project02/conectat_0.png"},
+      {"url": "../assets/project02/conectat_1.png"},
+      {"url": "../assets/project02/conectat_2.png"}
+    ],
+    "platforms": [
+      
+    ],
+    "hashtags": [
+      { "hashtag": "Work", "color": "red"},
+      { "hashtag": "Office", "color": "blue" },
+      { "hashtag": "Panter", "color": "blue" },
+      { "hashtag": "iOS Swift", "color": "blue" }
+    ]
+  },
+  {
+    "title":"Hidrix",
+    "description": "That was my first project in which I use Cocos2d-x framework to build a semi game to teach children about hydrography, correct use of the water and other information in relation to it.",
+    "images": [
+      {"url": "../assets/project05/corpocaldas_0.png"},
+      {"url": "../assets/project05/corpocaldas_1.png"},
+      {"url": "../assets/project05/corpocaldas_2.png"},
+      {"url": "../assets/project05/corpocaldas_3.png"}
+    ],
+    "platforms": [
+      { "name": "Android", "icon": "../assets/android_logo.png", "url": "https://play.google.com/store/apps/details?id=com.panter.hidrix&hl=en" },
+      { "name": "iOS", "icon": "../assets/apple_logo.png", "url": "https://itunes.apple.com/co/app/hidrix/id1263619143?l=en&mt=8" },
+      { "name": "Web", "icon": "../assets/html_logo.png", "url": "http://expedicionhidrix.com/" }
+    ],
+    "hashtags": [
+      { "hashtag": "Work", "color": "red"},
+      { "hashtag": "Office", "color": "blue" },
+      { "hashtag": "Panter", "color": "blue" }
+    ]
+  },
+  {
+    "title":"SSBCharacters Ban",
+    "description": "This one to supply a need, after lunchtime my corworkers and I played SSB 4, but the common issue was we all use the same character, now whit this creation each one get a random character and know it before starting, It was too funny when a player had a character like Jigglypuff, Olimar something similar.",
+    "images": [
+      {"url": "../assets/project04/SSBCharacters_0.png"},
+      {"url": "../assets/project04/SSBCharacters_1.png"},
+      {"url": "../assets/project04/SSBCharacters_2.png"}
+    ],
+    "platforms": [
+
+    ],
+    "hashtags": [
+      { "hashtag": "Idea", "color": "red"},
+      { "hashtag": "Hobby", "color": "green"},
+      { "hashtag": "iOS Swift", "color": "green"}
+    ]
+  },
+  {
+    "title":"Don Perro",
+    "description": "This one was a big app I learned new things and it was very funny to work on that. Together my co-worker who worked in the backend to complete all functionalities and also we were able to share ideas to improve the app.",
+    "images": [
+      {"url": "../assets/project08/doctorperro.png"}
+    ],
+    "platforms": [
+      { "name": "iOS", "icon": "../assets/apple_logo.png", "url": "https://itunes.apple.com/co/app/don-perro/id1118704484?l=en&mt=" }
+    ],
+    "hashtags": [
+      { "hashtag": "Frelance", "color": "blue" }
+    ]
+  },
+  {
+    "title":"Vision",
+    "description": "There were already certain things done and I finished it, Vision allow to customers access to services such as consult medical history, detect visual problems with the helps test visual acuity and Ishihara, and show them information important about medical treatments offers.",
+    "images": [
+      {"url": "../assets/project07/vision.png"}
+    ],
+    "platforms": [
+      { "name": "iOS", "icon": "../assets/apple_logo.png", "url": "https://itunes.apple.com/co/app/instituto-de-la-visi%C3%B3n/id1112685930?l=en&mt=8" }
+    ],
+    "hashtags": [
+      { "hashtag": "Frelance", "color": "blue" }
+    ]
+  },
+  {
+    "title":"UI Copies",
+    "description": "That was a way to learn about Swift programming language, in more situation help me to complete quickly apps in this case ConecTaT, a good way to pass the boredom.",
+    "images": [
+      {"url": "../assets/project03/ui_0.png"},
+      {"url": "../assets/project03/ui_1.png"},
+      {"url": "../assets/project03/ui_2.png"}
+    ],
+    "platforms": [
+      
+    ],
+    "hashtags": [
+      { "hashtag": "Idea", "color": "red"},
+      { "hashtag": "#LetsBuildThatApp", "color": "blue" },
+      { "hashtag": "Courses", "color": "blue" }
+    ]
+  },
+  {
+    "title":"Ideas",
+    "description": "They were ideas I worked for a while ago, like Ping Pong Marker or app to follow your favorite brands and stay pending to a new offer or new product, pocket manager... and I used Firebase like backend in some cases.",
+    "images": [
+      {"url": "../assets/project06/idea_0.png"},
+      {"url": "../assets/project06/idea_1.png"},
+      {"url": "../assets/project06/idea_2.png"},
+      {"url": "../assets/project06/idea_3.png"},
+      {"url": "../assets/project06/idea_4.png"},
+      {"url": "../assets/project06/idea_5.png"}
+    ],
+    "platforms": [
+      { "name": "iOS PingPong", "icon": "../assets/apple_logo.png", "url": "https://github.com/Rojke34/pingpong" }
+    ],
+    "hashtags": [
+      { "hashtag": "Ideas", "color": "red"},
+      { "hashtag": "Hobby", "color": "blue"},
+      { "hashtag": "Passion", "color": "green"}
+    ]
+  }
+]
